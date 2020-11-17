@@ -1,0 +1,4 @@
+streamlit = 0.71.0
+pandas = 1.0.5
+
+web: sh setup.sh && streamlit run ex1.py
